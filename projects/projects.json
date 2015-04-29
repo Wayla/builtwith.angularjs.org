@@ -3688,7 +3688,39 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Wayla",
+      "thumb": "wayla/thumb.png",
+      "desc": "Wayla is an immersive visual platform for the news and events that shape our culture.",
+      "url": "http://www.wayla.com",
+      "info": "http://www.wayla.com/about",
+      "submitter": "juddam",
+      "submissionDate": "2015-04-28",
+      "tags": [
+        "Production",
+        "CRUD",
+        "Animations",
+        "jQuery",
+        "VelocityJS",
+        "UI-Router",
+        "Gulp",
+        "Photography",
+        "Social",
+        "Mobile",
+        "Responsive",
+        "Firebase",
+        "AngularFire",
+        "HammerJS",
+        "News",
+        "Media",
+        "Images",
+        "FileReader",
+        "Design",
+        "Transitions",
+        "Content",
+        "Network"
+      ]
     }
-
   ]
 }
